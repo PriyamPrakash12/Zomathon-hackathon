@@ -1,0 +1,5 @@
+{
+  "name": "Zomathon Prototype",
+  "description": "A prototype for optimizing Kitchen Prep Time (KPT) prediction using location-based handover verification and merchant-signaled rush hours.",
+  "requestFramePermissions": []
+}
