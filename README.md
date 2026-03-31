@@ -639,7 +639,7 @@ We built this as a prototype under hackathon constraints. Here's what we'd build
       <sub>System Architecture · UI/UX Design</sub>
       <br/><br/>
       <a href="https://github.com/thestethoguy"><img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white"/></a>
-      <a href="www.linkedin.com/in/aman-a-54034a202"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+      <a href="https://www.linkedin.com/in/aman-a-54034a202/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
     </td>
     <td align="center" width="250px">
       <br/>
