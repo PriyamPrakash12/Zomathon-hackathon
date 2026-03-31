@@ -660,7 +660,7 @@ We built this as a prototype under hackathon constraints. Here's what we'd build
       <br/>
       <sub>Business Logic · Penalty Engine</sub>
       <br/><br/>
-      <a href="https://github.com/ashishkumar"><img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white"/></a>
+      <a href="https://github.com/ash1shhhhh"><img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white"/></a>
       <a href="https://www.linkedin.com/in/ashish-kumar-838509364/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
     </td>
   </tr>
