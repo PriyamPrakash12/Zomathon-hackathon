@@ -12,11 +12,6 @@
 [![TailwindCSS](https://img.shields.io/badge/Tailwind-v4-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
 [![Google Gemini](https://img.shields.io/badge/Google_Gemini-AI-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://ai.google.dev/)
 
-<!-- BADGES ROW 2 -->
-[![Hackathon](https://img.shields.io/badge/Zomathon-Hackathon_2026-E23744?style=for-the-badge&logo=zotero&logoColor=white)](https://www.codingninjas.com/landing/10x-zomathon/)
-[![Prize Pool](https://img.shields.io/badge/Prize_Pool-₹1,50,000-gold?style=for-the-badge&logo=cashapp&logoColor=black)](https://www.codingninjas.com/landing/10x-zomathon/)
-[![Participants](https://img.shields.io/badge/Participants-6000%2B-orange?style=for-the-badge&logo=groups&logoColor=white)](https://www.codingninjas.com/landing/10x-zomathon/)
-[![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](./LICENSE)
 
 <br/>
 
