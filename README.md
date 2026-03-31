@@ -521,7 +521,7 @@ npm >= 9.0.0
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/Zomathon-hackathon.git
+git clone https://github.com/PriyamPrakash12/Zomathon-hackathon.git
 cd Zomathon-hackathon
 ```
 
