@@ -292,7 +292,7 @@ Every feature is designed around a core principle: **don't let bad data enter th
 
 <div align="center">
 
-🌐 **[Launch the Live App →](https://your-deployment-url.run.app)**
+🌐 **[Launch the Live App →](https://zomathon-three.vercel.app/)**
 
 </div>
 
@@ -643,8 +643,8 @@ We built this as a prototype under hackathon constraints. Here's what we'd build
       <br/>
       <sub>System Architecture · UI/UX Design</sub>
       <br/><br/>
-      <a href="https://github.com/amanaaryan"><img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white"/></a>
-      <a href="https://linkedin.com/in/amanaaryan"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+      <a href="https://github.com/thestethoguy"><img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white"/></a>
+      <a href="www.linkedin.com/in/aman-a-54034a202"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
     </td>
     <td align="center" width="250px">
       <br/>
@@ -654,8 +654,8 @@ We built this as a prototype under hackathon constraints. Here's what we'd build
       <br/>
       <sub>Problem Research · Feature Design</sub>
       <br/><br/>
-      <a href="https://github.com/priyamprakash"><img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white"/></a>
-      <a href="https://linkedin.com/in/priyamprakash"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+      <a href="https://github.com/PriyamPrakash12"><img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white"/></a>
+      <a href="https://www.linkedin.com/in/priyam-prakash-660bb6307/><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
     </td>
     <td align="center" width="250px">
       <br/>
@@ -666,7 +666,7 @@ We built this as a prototype under hackathon constraints. Here's what we'd build
       <sub>Business Logic · Penalty Engine</sub>
       <br/><br/>
       <a href="https://github.com/ashishkumar"><img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white"/></a>
-      <a href="https://linkedin.com/in/ashishkumar"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+      <a href="https://www.linkedin.com/in/ashish-kumar-838509364/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
     </td>
   </tr>
 </table>
